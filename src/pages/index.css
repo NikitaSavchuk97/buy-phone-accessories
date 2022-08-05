@@ -21,12 +21,17 @@
 
 
 @import url(../blocks/content/content.css);
-
 @import url(../blocks/content/__advertisement/content__advertisement.css);
+@import url(../blocks/content/__title/content__title.css);
 
-@import url(../blocks/content/__section/content__section.css);
-@import url(../blocks/content/__section/_type/content__section_type_title.css);
-@import url(../blocks/content/__section/_type/content__section_type_item.css);
+@import url(../blocks/elements/elements.css);
 
+@import url(../blocks/element/element.css);
+@import url(../blocks/element/__like/element__like.css);
+@import url(../blocks/element/__photo/element__photo.css);
+@import url(../blocks/element/__rating/element__rating.css);
+@import url(../blocks/element/__rating/element__rating-value.css);
+@import url(../blocks/element/__price/element__price.css);
+@import url(../blocks/element/__title/element__title.css);
 
 @import url(../blocks/footer/footer.css);

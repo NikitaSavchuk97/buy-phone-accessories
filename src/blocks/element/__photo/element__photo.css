@@ -1,0 +1,5 @@
+.element__photo {
+  height: 250px;
+  margin: 25px auto 0 auto;
+  object-fit: contain;
+}
