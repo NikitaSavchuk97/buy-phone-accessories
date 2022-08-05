@@ -1,0 +1,21 @@
+.header__basket-icon {
+  width: 16px;
+  height: 16px;
+
+  visibility: hidden;
+  opacity: 0;
+
+  font-size: 14px;
+
+  margin: -19px -13px auto auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: black;
+  font-weight: 700;
+
+  border-radius: 50px;
+  background-color: rgb(7, 156, 255);
+}

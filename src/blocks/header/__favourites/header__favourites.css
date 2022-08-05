@@ -1,0 +1,13 @@
+.header__favourites {
+  width: 26px;
+  height: 26px;
+
+  margin: 20px 20px auto auto;
+
+  border: none;
+
+  background-image: url(../../../images/__favourites.svg);
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

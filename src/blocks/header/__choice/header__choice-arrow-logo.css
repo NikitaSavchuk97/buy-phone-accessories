@@ -1,0 +1,10 @@
+.header__choice-arrow-logo {
+  width: 10px;
+  height: 10px;
+
+  margin: 7px 0 0 auto;
+
+  background-image: url(../../../images/__downArrow.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
