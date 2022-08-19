@@ -1,5 +1,5 @@
 .element__photo {
-  height: 250px;
-  margin: 25px auto 0 auto;
-  object-fit: contain;
-} 
+	height: 250px;
+	margin: 10% auto 0 auto;
+	object-fit: contain;
+}

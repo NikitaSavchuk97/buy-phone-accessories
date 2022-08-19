@@ -1,0 +1,13 @@
+.footer__social {
+	position: absolute;
+	top: 10%;
+	right: 15px;
+
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: 1fr;
+	gap: 15px;
+
+	margin: 0;
+	padding: 0;
+}

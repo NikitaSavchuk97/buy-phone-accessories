@@ -1,0 +1,17 @@
+.footer__logo {
+	position: absolute;
+	top: 10%;
+	left: 15px;
+
+	width: 146.8px;
+	height: 40px;
+
+	border-radius: 10px;
+
+
+	background-image: url(../../../images/__logo.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+
+	margin: 0;
+}

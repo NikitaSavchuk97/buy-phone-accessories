@@ -1,18 +1,18 @@
 .content {
-  font-family: 'Inter';
-    font-style:  normal;
-    font-weight: 500;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
 
-  display: flex;
-  flex-direction: column;
+	display: flex;
+	flex-direction: column;
 
-  background-color: rgb(219, 219, 219);
+	background-color: rgb(219, 219, 219);
 
-  width: 1110px;
- 
-  margin: 0 auto 0 auto;
-  padding: 0 60px;
+	width: 1110px;
 
-  align-items: center;
-  justify-content: center;
+	margin: 0 auto 0 auto;
+	padding: 30px 60px;
+
+	align-items: center;
+	justify-content: center;
 }

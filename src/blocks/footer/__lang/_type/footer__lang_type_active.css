@@ -1,0 +1,13 @@
+.footer__lang_type_active {
+	margin: 0 0 0 0;
+	text-shadow: 10px;
+	border-bottom: 3px solid rgb(7, 156, 255);
+	color: rgb(7, 156, 255);
+
+	font-style: 'Inter';
+	font-weight: 900;
+	font-size: 20px;
+
+	padding: 0 0 0 0;
+	margin: auto 0 0 10px;
+}

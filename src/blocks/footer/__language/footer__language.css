@@ -1,0 +1,23 @@
+.footer__language {
+	display: flex;
+	flex-direction: row;
+
+	width: 100px;
+	height: 25px;
+
+	justify-content: end;
+
+	list-style-type: none;
+
+
+	margin: 0;
+	padding: 0;
+
+	background-image: url(../../../images/__lang.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+
+	position: absolute;
+	top: 70%;
+	right: 20px;
+}
